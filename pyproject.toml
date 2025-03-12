@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "pubmedfetcher"
+version = "0.1.0"
+description = "Fetch research papers and detect non-academic authors"
+authors = ["Your Name"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31"
+
+[tool.poetry.scripts]
+get-papers-list = "get_papers_list:main"
