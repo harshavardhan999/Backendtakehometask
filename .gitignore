@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+poetry.lock
+results.csv
