@@ -2,7 +2,7 @@
 name = "pubmedfetcher"
 version = "0.1.0"
 description = "Fetch research papers and detect non-academic authors"
-authors = ["Your Name"]
+authors = ["Veeraballi Harsha Vardhan"]
 license = "MIT"
 
 [tool.poetry.dependencies]
